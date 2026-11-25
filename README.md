@@ -10,7 +10,7 @@ H3-World is the **first interactive world model** built on [MiniMax-H3](https://
 https://github.com/user-attachments/assets/1c862995-8809-447e-bade-2c47bfdb2738
 
 > **H3-World: Turning Language Understanding into World Control**<br>
-> Danze Chen<sup>1,2</sup>, Zeqing Wang<sup>1,2</sup>, Ziyue Lin<sup>3</sup>, [Xingyi Yang](https://adamdad.github.io/)<sup>3</sup>, [Yeying Jin](https://jinyeying.github.io/)<sup>1,2</sup><br>
+> [Danze Chen](https://danzer1xxxxchan.github.io/)<sup>1,2</sup>, Zeqing Wang<sup>1,2</sup>, Ziyue Lin<sup>3</sup>, [Xingyi Yang](https://adamdad.github.io/)<sup>3</sup>, [Yeying Jin](https://jinyeying.github.io/)<sup>1,2</sup><br>
 > <sup>1</sup>Tencent &nbsp; <sup>2</sup>National University of Singapore &nbsp; <sup>3</sup>The Hong Kong Polytechnic University
 
 ## ⚙️ Setup
