@@ -63,10 +63,10 @@ snapshot_download(
 )"
 
 python3 -c "
-from huggingface_hub import hf_hub_download
-hf_hub_download(
+from huggingface_hub import snapshot_download
+snapshot_download(
     'DANNY621/H3-World',
-    'step-10000.safetensors',
+    allow_patterns=['config.json', 'step-10000.safetensors'],
     local_dir='checkpoints/H3-World'
 )"
 ```
